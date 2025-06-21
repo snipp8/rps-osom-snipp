@@ -74,7 +74,10 @@ function playGame(){
     console.log(`Human: ${humanScore}`);
     console.log(`Computer: ${computerScore}`);
 
-    if(humanScore>computerScore){
+    if(humanScore===computerScore){
+        alert("Well, no one wins.")
+    }
+    else if(humanScore>computerScore){
         alert("You WIN!")
     }
     else{
