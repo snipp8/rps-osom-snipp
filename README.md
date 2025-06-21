@@ -1,1 +1,1 @@
-# rps-osom-snipp
+# Rock Paper Scissors Project (from TheOdinProject)
